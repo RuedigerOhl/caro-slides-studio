@@ -1,0 +1,29 @@
+# secrets
+.env
+.env.local
+app/.env*.local
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# next.js
+node_modules/
+.next/
+.vercel/
+
+# previews + working dirs
+master/slide-*.jpg
+master/*.pdf
+master/karrierecoach-logo-crop.png
+master/~$*
+output/
+.work_*
+
+# os
+.DS_Store
+/tmp/
+
+# customer source PPTX (private, Caro's actual decks — keep local only)
+master/CM_*.pptx

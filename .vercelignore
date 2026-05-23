@@ -1,0 +1,11 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+master/slide-*.jpg
+master/*.pdf
+output/
+tmp/
+engine/
+scripts/
+.work_*
