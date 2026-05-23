@@ -1,0 +1,15 @@
+→ Engine starten (Port 8001)…
+  PID 47316
+→ Next.js starten (Port 3000)…
+  PID 47317
+
+✓ Caros Slide Studio läuft:
+  http://localhost:3000
+
+Logs: tail -f logs/engine.log logs/next.log
+Stop: ./stop.sh
+→ Engine starten (Port 8001)…
+→ Next.js starten (Port 3000)…
+
+✓ Caros Slide Studio läuft auf http://localhost:3000
+  Engine pid 47386, Next pid 47387
